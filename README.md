@@ -4,10 +4,10 @@ The following project focus on the analysis of a dataset of **Bank Marketing** w
 Also focus on to get important features which dominate most to define weather new customer will accept the offer or not?
 
 ![Semantic description of image](banking-marketing1.jpg "Image Title")
-## Content:
-This Dataset contains information of 10000+ bank customers data
-## Dataset contains Total 17 columns/Features :
 
+## Contents :
+- Dataset contains Total 17 columns/Features
+- This Dataset contains information of 10000+ bank customers data
 ### Bank Client Data
 * 1 - **age** : Age of customer(numeric)
 * 2 - **job** : Job Type (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
