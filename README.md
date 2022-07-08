@@ -40,5 +40,5 @@ Also focus on to get important features which dominate most to define weather ne
 - After comparing I got well accuracy with 2 algorithms which are Random Forest and Xg boost with accuracy 85% and Recall Score 88% 
 - Technical tools or library used --Python,numpy,pandas,sklearn,matplotllib,xgboost 
 - 
-  -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View on Kaggle</a> 💝
+  -  👉<a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View on Kaggle</a> 💝
   -  👉<a href="#">View On Github</a> 💝
