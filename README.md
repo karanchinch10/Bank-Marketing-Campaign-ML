@@ -38,6 +38,7 @@ Also focus on to get important features which dominate most to define either new
 - Then I have done Feature Engineering which inclueds detecting and handling of outliers and features extraction based on my domian knowledge and visualization followed by label encoding and scaling 
 - I have train ML models with multiples algorithms on same data in order to Analysed & compare performance of differents models based of accuracy and complexity
 - After comparing I got well accuracy with 2 algorithms which are Random Forest and Xg boost with accuracy 85% and Recall Score 88% 
+- Constrcut Pipeline for deployement session 
 - Technical tools or library used --Python,numpy,pandas,sklearn,matplotllib,xgboost 
 - 
   -  👉<a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View on Kaggle</a> 💝
