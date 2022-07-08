@@ -1,6 +1,7 @@
 #  Bank Marketing | Who will Subscribed for deposit? 🏦
 ## Problem Statement:
 The following project focus on the analysis of a dataset of **Bank Marketing** which contains data or information about customers and aims to get useful insights from the data and predict if a new customer will accept a deposit offer or not.
+Also focus on to get important features which dominate most to define weather new customer will accept the offer or not?
 
 ![Semantic description of image](banking-marketing1.jpg "Image Title")
 ## Content:
@@ -32,11 +33,9 @@ This Dataset contains information of 10000+ bank customers data
 ### Output variable (desired target):
 * 17 - **deposit** - has the client subscribed a term deposit? (binary: yes/no)
 ## My Work:
-- I have made this model which will predict estimated price of old car base on thier features such as brand,KM drive,Power,Year and so on..
-- I have done stepwise EDA (Exploratory Data Analysis) then visualizatiion to get some idea about important features or correlation of each feature with output which dominates more to predict price
-- Then I have done Feature Engineering which inclueds features extraction & features construction based on my domian knowledge and visualization followed by label encoding 
-- I have train multiples ML models on same data in order to Analysed & compare performance of differents models based of accuracy and complexity
-- I have used all regression algorithms to train model and after comparing I got well accuracy by RandomForestRegressor after cross validation which was around 90%
-- Finally Build web application in python using streamlit library and then deploy the model 
-- <https://karanchinch10-oldcar-sell-streamlit-app-p6gwqq.streamlitapp.com/> works too. Must be used for explicit links.
-- Technical tools or library used --Python,numpy,pandas,sklearn,matplotllib,html,css,streamlit 
+- I have made this model which will predict either new customer will accept a deposit offer or not
+- I have done stepwise EDA (Exploratory Data Analysis) then visualizatiion of categ and Num features to get some idea about important features or correlation
+- Then I have done Feature Engineering which inclueds detecting and handling of outliers and features extraction based on my domian knowledge and visualization followed by label encoding and scaling 
+- I have train ML models with multiples algorithms on same data in order to Analysed & compare performance of differents models based of accuracy and complexity
+- After comparing I got well accuracy with 2 algorithms which are Random Forest and Xg boost with accuracy 85% and Recall Score 88% 
+- Technical tools or library used --Python,numpy,pandas,sklearn,matplotllib,xgboost 
