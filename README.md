@@ -39,3 +39,6 @@ This Dataset contains information of 10000+ bank customers data
 - I have train ML models with multiples algorithms on same data in order to Analysed & compare performance of differents models based of accuracy and complexity
 - After comparing I got well accuracy with 2 algorithms which are Random Forest and Xg boost with accuracy 85% and Recall Score 88% 
 - Technical tools or library used --Python,numpy,pandas,sklearn,matplotllib,xgboost 
+- 
+  -  <a href="https://www.kaggle.com/code/karanchinchpure/bank-marketing-who-will-subscribe-for-deposit">View on Kaggle</a> 💝
+  -  👉<a href="#">View On Github</a> 💝
