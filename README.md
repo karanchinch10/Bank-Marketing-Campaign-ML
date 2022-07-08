@@ -2,7 +2,7 @@
 ## Problem Statement:
 The following project focus on the analysis of a dataset of **Bank Marketing** which contains data or information about customers and aims to get useful insights from the data and predict if a new customer will accept a deposit offer or not.
 
-![Semantic description of image](used_car.jpg "Image Title")
+![Semantic description of image](banking-marketing1.jpg "Image Title")
 ## Content:
 This Dataset contains information of 10000+ bank customers data
 ## Dataset contains Total 17 columns/Features :
