@@ -127,8 +127,6 @@ df4 = pd.DataFrame(test_input,columns=X_train.columns)
 res = pipe.predict(df4)[0]
 
 result = st.button("Click to Predict")
-st.write("")
-
 if result:
     if int(res)==1:
         st.success("Will Subscribed for Deposit")
